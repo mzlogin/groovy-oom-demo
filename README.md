@@ -1,2 +1,3 @@
 # groovy-oom-demo
-A demo Project to show OutOfMemoryError caused by Groovy.
+
+A demo project to show OutOfMemoryError caused by Groovy.
