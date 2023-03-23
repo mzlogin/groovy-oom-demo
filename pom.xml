@@ -25,6 +25,7 @@
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
+            <!-- 2.4.7 will cause OOM, upgrade to 2.4.8+ can solve it -->
             <version>2.4.7</version>
         </dependency>
 
